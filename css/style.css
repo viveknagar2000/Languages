@@ -1,0 +1,104 @@
+* {		margin: 0px ;
+		padding : 0px ;
+	}
+
+
+
+
+
+
+.first {	width : 100% ;
+		height : 320px ;
+		background-image : url("../img/sunset.jfif") ;
+		background-repeat : no-repeat ;
+		background-position : center ;
+		background-size : 100% 360px ;
+		
+		
+	}
+
+.first h1 {		color : white ;
+			text-align : center ;
+			padding-top : 100px ; 
+			font-size : 50px ;
+			text-shadow : 02px 0px 05px black ;
+	}
+
+
+.first h1:hover {		color : #c44dff ;
+				text-shadow : 02px 0px 09px black ;
+				
+				
+			}
+
+
+.first ul {		height : 40px ;
+			border : 2px solid black ; 
+			border-radius : 5px ;
+			margin : 117px 40px 0px  ;
+		}
+
+
+.first ul li {	display : inline-block ;
+			margin : 05px 48px 0px ; 
+			background-color :  yellow ;
+			border-top : 2px  solid  green  ; 
+			border-left : 2px  solid  green  ; 
+			border-radius : 4px  ;
+			padding : 04px 10px 04px ; 
+			
+
+	}
+
+.first ul li:hover {	background-color :  #ffccff;
+				color : black ; }
+
+
+.first ul li a{		text-decoration : none ; 
+
+			}
+
+
+
+h2 {		text-align : center ;
+
+	}
+
+.pura {		width : 100% ;
+			height : 100% ;
+			background: linear-gradient(to top left, #cc66ff , #ff99cc , #cc66ff , #ff99cc , #cc66ff , #ff99cc);
+			border : 2px solid black ; 
+		} 
+
+p {	margin : 0px 40px 0px ;
+	text-align : justify ; }
+
+
+#f1 , #f2 , #f3, #f4, #f5 , #f6, #f7 {		
+							margin : 40px 0px 120px ; 
+
+						} 	 
+
+
+ #f8{		margin : 40px 0px 40px ; 
+
+	}
+
+
+button {	padding : 02px 2px 02px ;
+		margin  : 40px 0px 0px 40px ;
+		background-color : #0099ff ; 
+		color : white ;
+	}
+
+
+button a {		color : white ;
+			text-shadow : 02px 0px 05px black ;
+			font-size : 15px ;
+			text-decoration : none ;
+			
+		}
+
+
+
+			
